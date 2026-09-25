@@ -1,0 +1,28 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "Polster Akku ist schon eingerichtet."
+    },
+    "step": {
+      "user": {
+        "title": "Polster Akku",
+        "description": "Schwelle in Prozent. Notify-Dienst z.B. notify.mobile_app_iphone – leer lassen, wenn du die Automation selbst baust.",
+        "data": {
+          "threshold": "Warnschwelle (%)",
+          "notify_service": "Notify-Dienst (optional)"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Polster Akku",
+        "data": {
+          "threshold": "Warnschwelle (%)",
+          "notify_service": "Notify-Dienst (optional)"
+        }
+      }
+    }
+  }
+}

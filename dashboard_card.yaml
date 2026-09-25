@@ -1,0 +1,5 @@
+type: custom:polster-akku-card
+title: Akkus
+threshold: 20
+show_all: true
+collapse_all: 12

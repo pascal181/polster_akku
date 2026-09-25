@@ -1,0 +1,11 @@
+{
+  "domain": "polster_akku",
+  "name": "Polster Akku",
+  "codeowners": ["@pascal181"],
+  "config_flow": true,
+  "documentation": "https://github.com/pascal181/polster_akku",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/pascal181/polster_akku/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}
